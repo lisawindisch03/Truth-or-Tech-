@@ -14,6 +14,8 @@ Developed as part of the *Engineering Project for Psychologists* in the M.Sc. Hu
 4. The **computer** analyzes GSR variance to make its own prediction
 5. Results are revealed: who won, friendship or the machine?
 
+![Hardware Setup](Truth_or_Tech_Setup.png)
+
 ## Built With
 
 | Category | Tools |
